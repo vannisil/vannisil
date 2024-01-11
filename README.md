@@ -5,7 +5,7 @@ Cybersecurity Student @ Politecnico di Bari
 -------------------------------------------
 
 *   🌍  I'm based in Bari
-*   🖥️  See my portfolio at [this link](http://vannisil.github.io/giovannisilvestri/)
+*   🖥️  See my portfolio at [this link](https://giovannisilvestri.vercel.app)
 *   🚀  I'm currently working on [Deep Learning and full stack projects](http://!)
 ###  Skills 
 <p align="left">
